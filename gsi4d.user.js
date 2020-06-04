@@ -117,6 +117,9 @@
 				'cpprefjp.github.io',
 				'cppreference.com',
 				'ufcpp.net',
+
+				// docker official document
+				'docker.com',
 			],
 		},
 
