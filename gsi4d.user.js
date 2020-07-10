@@ -120,6 +120,9 @@
 
 				// docker official document
 				'docker.com',
+				
+				// redis officaill page
+				'redis.io',
 			],
 		},
 
@@ -134,15 +137,6 @@
 				'askubuntu.com',
 				'reddit.com',
 				'answers.unity.com',
-			],
-		},
-
-		// 任意のユーザーが使えるサービス。比較的良質な物が多い。
-		publicService: {
-			isBlacklist: false,
-			color: '#FFE',
-			list: [
-				'qiita.com',
 			],
 		},
 
