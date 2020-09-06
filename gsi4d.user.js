@@ -144,6 +144,7 @@
 			isBlacklist: true,
 			color: null,
 			list: [
+				'github.co.jp',
 				// Wikipedia スクレイピング(?)
 				'wikiwand.com',
 
