@@ -148,6 +148,7 @@
 				// Wikipedia スクレイピング(?)
 				'wikiwand.com',
 
+
 				// 微妙な入門講座が引っかかった事があった。
 				'employment.en-japan.com',
 
@@ -163,6 +164,7 @@
 				'server-setting.info',
 
 				// 侍エンジニア。画像が多くて嫌い。
+				'www.sejuku.net',
 				'sejuku.net',
 
 				// 画像や広告が多くて嫌い。
