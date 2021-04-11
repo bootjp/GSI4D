@@ -144,6 +144,7 @@
 			isBlacklist: true,
 			color: null,
 			list: [
+				'docker.jp',
 				'aizine.ai',
 				'github.co.jp',
 				// Wikipedia スクレイピング(?)
