@@ -144,7 +144,7 @@
 			isBlacklist: true,
 			color: null,
 			list: [
-				'www.it-swarm-ja.com',
+				'it-swarm-ja.com',
 				'docker.jp',
 				'aizine.ai',
 				'github.co.jp',
