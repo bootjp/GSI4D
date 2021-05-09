@@ -144,6 +144,9 @@
 			isBlacklist: true,
 			color: null,
 			list: [
+				// en wikipedia translate page
+				'nipponkaigi.net',
+				
 				'ubuntu.buildwebhost.com',
 				'www.it-swarm-ja.com',
 				'it-swarm-ja.com',
