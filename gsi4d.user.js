@@ -187,6 +187,7 @@
 				'unitopi.com',
 				'internetacademy.jp',
 				'kurashi-no.jp',
+				'kokinn.com',
 
 				// コピペ(翻訳)サイト
 				'bunnyinside.com',
@@ -207,6 +208,7 @@
 				'qastack.jp',
 				'coder.work',
 				'it-swarm.dev',
+				'sobrelinux.info',
 
 				// AdSite
 				'solvusoft.com',
